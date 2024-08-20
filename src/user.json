@@ -1,0 +1,10 @@
+{
+  "name": "Allice",
+  "hobbies": ["Reading", "Dancing"],
+  "skills":{
+    "html": 4,
+    "css": 4,
+    "js": 4.5
+  },
+  "email": "user@gmail.com"
+}
